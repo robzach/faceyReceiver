@@ -4,8 +4,8 @@
 #include "ofxOsc.h"
 
 // change to whatever the actual pixel count of the target monitor is
-#define MONITORWIDTH 1366
-#define MONITORHEIGHT 768
+#define MONITORWIDTH 1280
+#define MONITORHEIGHT 1024
 
 // listen on port 12345
 #define PORT 12345
